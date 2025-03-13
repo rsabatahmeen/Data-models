@@ -1,0 +1,20 @@
+Customer Order Report
+
+Order ID: 0a4a2fccb27bd83a892fa503987a595b
+Customer City: santa luzia
+Order Status: delivered
+Total Items: 1
+Total Payment: $55.00
+------------------------------
+Order ID: 0e782c3705510e717d28907746cbda82
+Customer City: sao paulo
+Order Status: delivered
+Total Items: 1
+Total Payment: $82.50
+------------------------------
+Order ID: 10c320f977c6a18f91b2d14be13128c6
+Customer City: gravatai
+Order Status: delivered
+Total Items: 1
+Total Payment: $110.00
+------------------------------
